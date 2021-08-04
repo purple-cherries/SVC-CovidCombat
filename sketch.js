@@ -131,9 +131,9 @@ canvas = createCanvas(displayWidth, displayHeight-150)
     button.scale = 1.8
     
     
-    PlayButton = createSprite(200,200,10,10)
+    PlayButton = createSprite(1200,500,10,10)
     PlayButton.addImage(Play)
-    PlayButton.scale = 1
+    PlayButton.scale = 1.5
    
     NextButton = createSprite(680,600,10,10)
     NextButton.addImage(Next)
